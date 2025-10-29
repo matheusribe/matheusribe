@@ -1,17 +1,17 @@
-# 📊 Matheus Ribeiro
+# ♟️ Matheus Ribeiro
 
-**`Analista de Dados, Cientista de Dados em desenvolvimento`**
+**`Data Analyst | Aspiring Data Scientist`**
 
-Olá, meu nome é Matheus Costa Ribeiro, tenho 22 anos e sou natural de Salvador, Bahia. Atualmente curso Pós-graduação em Ciência de Dados e Big Data pela PUC Minas, onde aprofundo meus estudos em análise, visualização e modelagem de dados.
-Tenho grande interesse por inteligência artificial e machine learning, e busco aplicar esses conhecimentos em projetos que gerem impacto social e relevância prática.
-Acredito no poder da tecnologia para transformar realidades e procuro sempre unir pensamento analítico, criatividade e propósito no que faço.
-
----
-Nas horas vagas da vida acadêmica e profissional, curto [`cinema`](https://letterboxd.com/matheusribe/), [`música`](https://www.albumoftheyear.org/user/matheusribe/) e [`videogames`](https://backloggd.com/u/matheusribe/)
+Hello, my name is Matheus Ribeiro, I am 22 years old, and I’m from Salvador, Bahia, Brazil. I am currently pursuing a postgraduate degree in Data Science and Big Data at PUC Minas, where I focus on data analysis, visualization, and modeling.  
+I have a strong interest in artificial intelligence and machine learning, aiming to apply these skills in projects that generate social impact and practical relevance.  
+I believe in the power of technology to transform realities and strive to combine analytical thinking, creativity, and purpose in everything I do.  
 
 ---
+In my free time, outside of academic and professional work, I enjoy [`cinema`](https://letterboxd.com/matheusribe/), [`music`](https://www.albumoftheyear.org/user/matheusribe/), and [`video games`](https://backloggd.com/u/matheusribe/).  
 
-### 🤖 Linguagens e Tecnologias
+---
+
+### 🤖 Languages & Technologies
 
 <img 
     align="left" 
@@ -42,8 +42,8 @@ Nas horas vagas da vida acadêmica e profissional, curto [`cinema`](https://lett
 
 <img 
     align="left" 
-    alt="MicrosoftSQLServer" 
-    title="MicrosoftSQLServer"
+    alt="Microsoft SQL Server" 
+    title="Microsoft SQL Server"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"  
@@ -60,8 +60,8 @@ Nas horas vagas da vida acadêmica e profissional, curto [`cinema`](https://lett
 
 <img 
     align="left" 
-    alt="Numpy" 
-    title="Numpy"
+    alt="NumPy" 
+    title="NumPy"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"  
@@ -87,7 +87,7 @@ Nas horas vagas da vida acadêmica e profissional, curto [`cinema`](https://lett
 
 <img 
     align="left" 
-    alt="streamlit" 
+    alt="Streamlit" 
     title="Streamlit"
     width="30px" 
     style="padding-right: 10px;" 
@@ -96,8 +96,8 @@ Nas horas vagas da vida acadêmica e profissional, curto [`cinema`](https://lett
 
 <img 
     align="left" 
-    alt="git" 
-    title="git"
+    alt="Git" 
+    title="Git"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
@@ -106,21 +106,21 @@ Nas horas vagas da vida acadêmica e profissional, curto [`cinema`](https://lett
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 GitHub Statistics
 <p>
 <img
     align="left"
-    alt = "Github Stats"
-    height = "200"
-    style = "padding-right: 10px;"
-    src ="https://github-readme-stats.vercel.app/api?username=matheusribe&show_icons=true&theme=dark&locale=pt-br&include_all_commits=true)"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=matheusribe&show_icons=true&theme=dark&locale=en&include_all_commits=true"
 />
 
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200"
-      style = "padding-right: 10px;"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusribe&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+    align="left" 
+    alt="Top Languages" 
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusribe&theme=dark&layout=compact&custom_title=Technologies&langs_count=9" 
+/>
 </p>

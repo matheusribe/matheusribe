@@ -7,7 +7,7 @@ I have a strong interest in artificial intelligence and machine learning, aiming
 I believe in the power of technology to transform realities and strive to combine analytical thinking, creativity, and purpose in everything I do.  
 
 ---
-In my free time, outside of academic and professional work, I enjoy [`cinema`](https://letterboxd.com/matheusribe/), [`music`](https://www.albumoftheyear.org/user/matheusribe/), and [`video games`](https://backloggd.com/u/matheusribe/).  
+In my free time, outside of academic and professional work, I enjoy cinema, music, and video games.
 
 ---
 
@@ -102,25 +102,3 @@ In my free time, outside of academic and professional work, I enjoy [`cinema`](h
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
-<br/>
-<br/>
-
-### 📊 GitHub Statistics
-<p>
-<img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=matheusribe&show_icons=true&theme=dark&locale=en&include_all_commits=true"
-/>
-
-<img 
-    align="left" 
-    alt="Top Languages" 
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusribe&theme=dark&layout=compact&custom_title=Technologies&langs_count=9" 
-/>
-</p>

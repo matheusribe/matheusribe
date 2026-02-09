@@ -1,13 +1,27 @@
-# ♟️ Matheus Ribeiro
+## ♟️ Matheus Ribeiro
 
-**`Data Analyst | Aspiring Data Scientist`**
+**Data Analyst | Data Science | Machine Learning | BI**
 
-Hello, my name is Matheus Ribeiro, I am 22 years old, and I’m from Salvador, Bahia, Brazil. I am currently pursuing a postgraduate degree in Data Science and Big Data at PUC Minas, where I focus on data analysis, visualization, and modeling.  
-I have a strong interest in artificial intelligence and machine learning, aiming to apply these skills in projects that generate social impact and practical relevance.  
-I believe in the power of technology to transform realities and strive to combine analytical thinking, creativity, and purpose in everything I do.  
+I am a Data Analyst with a background in Computer Science and a postgraduate specialization in **Data Science and Big Data at PUC Minas**. My work is centered on **statistical analysis, data visualization, and predictive modeling**, with a strong focus on transforming data into actionable insights.
 
----
-In my free time, outside of academic and professional work, I enjoy cinema, music, and video games.
+I have hands-on experience across the **entire data lifecycle**, including **ETL processes, exploratory data analysis (EDA), and the development and evaluation of machine learning models**, always prioritizing data quality, methodological rigor, and reproducibility.
+
+I work primarily with **Python and SQL**, applying **descriptive and inferential statistics**, supervised learning techniques, and robust model evaluation metrics. I also build **analytical dashboards and interactive applications** to communicate technical findings clearly to both technical and non-technical stakeholders.
+
+I am particularly interested in applying **Data Science and Artificial Intelligence to socially relevant problems**, especially in areas related to **health, human behavior, and data-driven public policy**, focusing on evidence-based solutions with practical impact.
+
+### 🧠 Core Skills
+- **Languages:** Python, SQL  
+- **Data Analysis:** EDA, Descriptive & Inferential Statistics, Statistical Validation  
+- **Machine Learning:** Logistic Regression, KNN, Random Forest  
+- **Model Evaluation:** F1-score, ROC, AUC, Confusion Matrix  
+- **Data Engineering:** ETL, Feature Engineering, Normalization  
+- **Visualization & BI:** Matplotlib, Seaborn, Plotly, Streamlit, Power BI, Tableau  
+- **Version Control & Methods:** Git, GitHub, Scrum  
+
+I am seeking opportunities as a **Junior Data Analyst, BI Analyst, or Data Scientist in training**, where I can apply analytical and statistical techniques to solve real-world problems and create value through data.
+
+Outside of academic and professional activities, I am interested in **cinema, music, and video games**, exploring the intersection of **data, technology, and culture**.
 
 ---
 

@@ -1,31 +1,32 @@
 ## ♟️ Matheus Ribeiro
 
-**Data Analyst | Data Science | Machine Learning | BI**
+```Analista de Dados | Ciência de Dados | Machine Learning | BI```
 
-I am a Data Analyst with a background in Computer Science and a postgraduate specialization in **Data Science and Big Data at PUC Minas**. My work is centered on **statistical analysis, data visualization, and predictive modeling**, with a strong focus on transforming data into actionable insights.
+Sou Analista de Dados com formação em Ciência da Computação e especialização em andamento em **Ciência de Dados e Big Data pela PUC Minas**. Minha atuação é focada em **análise estatística, visualização de dados e modelagem preditiva**, com ênfase na transformação de dados em **insights acionáveis**.
 
-I have hands-on experience across the **entire data lifecycle**, including **ETL processes, exploratory data analysis (EDA), and the development and evaluation of machine learning models**, always prioritizing data quality, methodological rigor, and reproducibility.
+Possuo experiência prática em todo o **ciclo de vida dos dados**, incluindo **processos de ETL, análise exploratória de dados (EDA) e desenvolvimento e avaliação de modelos de machine learning**, sempre priorizando **qualidade dos dados, rigor metodológico e reprodutibilidade**.
 
-I work primarily with **Python and SQL**, applying **descriptive and inferential statistics**, supervised learning techniques, and robust model evaluation metrics. I also build **analytical dashboards and interactive applications** to communicate technical findings clearly to both technical and non-technical stakeholders.
+Trabalho principalmente com **Python e SQL**, aplicando **estatística descritiva e inferencial**, técnicas de aprendizado supervisionado e métricas robustas para avaliação de modelos. Também desenvolvo **dashboards analíticos e aplicações interativas** para comunicar resultados técnicos de forma clara, tanto para públicos técnicos quanto não técnicos.
 
-I am particularly interested in applying **Data Science and Artificial Intelligence to socially relevant problems**, especially in areas related to **health, human behavior, and data-driven public policy**, focusing on evidence-based solutions with practical impact.
+Tenho interesse especial na aplicação de **Ciência de Dados e Inteligência Artificial em problemas socialmente relevantes**, especialmente nas áreas de **saúde, comportamento humano e políticas públicas orientadas por dados**, com foco em soluções baseadas em evidências e impacto prático.
 
-### 🧠 Core Skills
-- **Languages:** Python, SQL  
-- **Data Analysis:** EDA, Descriptive & Inferential Statistics, Statistical Validation  
-- **Machine Learning:** Logistic Regression, KNN, Random Forest  
-- **Model Evaluation:** F1-score, ROC, AUC, Confusion Matrix  
-- **Data Engineering:** ETL, Feature Engineering, Normalization  
-- **Visualization & BI:** Matplotlib, Seaborn, Plotly, Streamlit, Power BI, Tableau  
-- **Version Control & Methods:** Git, GitHub, Scrum  
+### 🧠 Competências Técnicas
+- **Linguagens:** Python, SQL  
+- **Análise de Dados:** EDA, Estatística Descritiva e Inferencial, Validação Estatística  
+- **Machine Learning:** Regressão Logística, KNN, Random Forest  
+- **Avaliação de Modelos:** F1-score, ROC, AUC, Matriz de Confusão  
+- **Engenharia de Dados:** ETL, Feature Engineering, Normalização  
+- **Visualização & BI:** Matplotlib, Seaborn, Plotly, Streamlit, Power BI, Tableau  
+- **Versionamento & Métodos:** Git, GitHub, Scrum  
 
-I am seeking opportunities as a **Junior Data Analyst, BI Analyst, or Data Scientist in training**, where I can apply analytical and statistical techniques to solve real-world problems and create value through data.
+Busco oportunidades como **Analista de Dados Júnior, Analista de BI ou Cientista de Dados em formação**, onde possa aplicar técnicas analíticas e estatísticas para resolver problemas reais e gerar valor por meio de dados.
 
-Outside of academic and professional activities, I am interested in **cinema, music, and video games**, exploring the intersection of **data, technology, and culture**.
+Fora do contexto acadêmico e profissional, tenho interesse em **cinema, música e videogames**.
+
 
 ---
 
-### 🤖 Languages & Technologies
+### 🤖 Tecnologias
 
 <img 
     align="left" 
